@@ -1,0 +1,14 @@
+C:\Users\yuuri\OneDrive\デスクトップ\C#_App\floralplayingcards\floralplayingcards\bin\Debug\floralplayingcards.exe.config
+C:\Users\yuuri\OneDrive\デスクトップ\C#_App\floralplayingcards\floralplayingcards\bin\Debug\floralplayingcards.exe
+C:\Users\yuuri\OneDrive\デスクトップ\C#_App\floralplayingcards\floralplayingcards\bin\Debug\floralplayingcards.pdb
+C:\Users\yuuri\OneDrive\デスクトップ\C#_App\floralplayingcards\floralplayingcards\obj\Debug\floralplayingcards.csproj.AssemblyReference.cache
+C:\Users\yuuri\OneDrive\デスクトップ\C#_App\floralplayingcards\floralplayingcards\obj\Debug\floralplayingcards.F_Menu.resources
+C:\Users\yuuri\OneDrive\デスクトップ\C#_App\floralplayingcards\floralplayingcards\obj\Debug\floralplayingcards.Properties.Resources.resources
+C:\Users\yuuri\OneDrive\デスクトップ\C#_App\floralplayingcards\floralplayingcards\obj\Debug\floralplayingcards.csproj.GenerateResource.cache
+C:\Users\yuuri\OneDrive\デスクトップ\C#_App\floralplayingcards\floralplayingcards\obj\Debug\floralplayingcards.csproj.CoreCompileInputs.cache
+C:\Users\yuuri\OneDrive\デスクトップ\C#_App\floralplayingcards\floralplayingcards\obj\Debug\floralplayingcards.exe
+C:\Users\yuuri\OneDrive\デスクトップ\C#_App\floralplayingcards\floralplayingcards\obj\Debug\floralplayingcards.pdb
+C:\Users\yuuri\OneDrive\デスクトップ\C#_App\floralplayingcards\floralplayingcards\obj\Debug\floralplayingcards.Form3.resources
+C:\Users\yuuri\OneDrive\デスクトップ\C#_App\floralplayingcards\floralplayingcards\obj\Debug\floralplayingcards.F_Main_normal.resources
+C:\Users\yuuri\OneDrive\デスクトップ\C#_App\floralplayingcards\floralplayingcards\obj\Debug\floralplayingcards.F_Main.resources
+C:\Users\yuuri\OneDrive\デスクトップ\C#_App\floralplayingcards\floralplayingcards\obj\Debug\floralplayingcards.challenge.resources
